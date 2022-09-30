@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/evansmej/public_html
+    - export DEPLOYPATH=/home/flomtech/public_html
     - /bin/cp index.html $DEPLOYPATH
